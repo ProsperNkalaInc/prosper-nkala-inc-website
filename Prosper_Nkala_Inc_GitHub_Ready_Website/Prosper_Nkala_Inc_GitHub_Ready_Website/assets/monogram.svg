@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-label="Prosper Nkala Incorporated Attorneys brand artwork">
+  <defs>
+    <linearGradient id="navyDepth" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102A46"/>
+      <stop offset="1" stop-color="#071A2E"/>
+    </linearGradient>
+    <pattern id="fineGrid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .serif { font-family: 'Nimbus Roman No9 L','Nimbus Roman','Times New Roman',serif; }
+      .sans { font-family: 'Nimbus Sans','Arial',sans-serif; }
+      .caps { letter-spacing: .16em; }
+      .tight { letter-spacing: .015em; }
+    </style>
+  </defs>
+
+  <g transform="translate(170 170) scale(3.6666666666666665)" opacity="1">
+    <path d="M20 82V20H82 M160 98V160H98" fill="none" stroke="#C6A15B" stroke-width="4" stroke-linecap="square"/>
+    <text x="43" y="118" class="serif" font-size="82" fill="#C6A15B">P</text>
+    <text x="88" y="121" class="serif" font-size="70" fill="#C6A15B">N</text>
+  </g>
+</svg>
