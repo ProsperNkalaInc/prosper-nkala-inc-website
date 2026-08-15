@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="420" viewBox="0 0 1250 420" role="img" aria-label="Prosper Nkala Incorporated Attorneys brand artwork">
+  <defs>
+    <linearGradient id="navyDepth" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102A46"/>
+      <stop offset="1" stop-color="#071A2E"/>
+    </linearGradient>
+    <pattern id="fineGrid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <style>
+      .serif { font-family: 'Nimbus Roman No9 L','Nimbus Roman','Times New Roman',serif; }
+      .sans { font-family: 'Nimbus Sans','Arial',sans-serif; }
+      .caps { letter-spacing: .16em; }
+      .tight { letter-spacing: .015em; }
+    </style>
+  </defs>
+
+  <g transform="translate(70 100) scale(1.25)">
+    <g transform="translate(0 0) scale(1)" opacity="1">
+    <path d="M20 82V20H82 M160 98V160H98" fill="none" stroke="#C6A15B" stroke-width="4" stroke-linecap="square"/>
+    <text x="43" y="118" class="serif" font-size="82" fill="#C6A15B">P</text>
+    <text x="88" y="121" class="serif" font-size="70" fill="#C6A15B">N</text>
+  </g>
+    <line x1="218" y1="26" x2="218" y2="154" stroke="#C6A15B" stroke-width="2"/>
+    <text x="254" y="92" class="serif tight" font-size="58" fill="#F6F3EC">PROSPER NKALA</text>
+    <text x="760" y="64" class="sans caps" font-size="17" font-weight="700" fill="#C6A15B">INC.</text>
+    <text x="257" y="132" class="sans caps" font-size="16" font-weight="700" fill="#F6F3EC" opacity="0.88">INCORPORATED ATTORNEYS</text>
+  </g>
+</svg>
