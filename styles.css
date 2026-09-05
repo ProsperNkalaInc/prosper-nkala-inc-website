@@ -133,7 +133,7 @@ button, summary { font: inherit; }
 .signal-inner span { padding: 0 22px; border-right: 1px solid rgba(7,26,46,.24); font-size: .68rem; font-weight: 800; letter-spacing: .12em; text-align: center; text-transform: uppercase; }
 .signal-inner span:last-child { border-right: 0; }
 
-.section { padding: 118px 0; scroll-margin-top: 92px; }
+.section { padding: 118px 0; }
 @media (min-width: 1101px) and (min-height: 700px) {
   .section { min-block-size: calc(100svh - 82px); display: flex; align-items: center; }
   .section > .container { width: min(1180px, calc(100% - 48px)); }
